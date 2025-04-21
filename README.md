@@ -158,7 +158,7 @@ Top features contributing to user segmentation:
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/seven-es/your-repo-name.git
+   git clone https://github.com/seven-es/Ford_Bike_classfication.git
    cd Ford_Bike_classfication
 
 2. Install dependencies
