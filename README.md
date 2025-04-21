@@ -167,7 +167,7 @@ Top features contributing to user segmentation:
    pip install -r requirements.txt
 3. Install dependencies
 
-   Place the dataset file fordgobike-tripdataFor201902_updated.csv in the root directory of the project
+   Place the dataset file  in the root directory of the project
 
 4. Run the script
    ```bash
